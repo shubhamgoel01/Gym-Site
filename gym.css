@@ -1,0 +1,95 @@
+    /* CSS reset */
+    body {
+      font-family: "Libre Baskerville", serif;
+      color: white;
+      margin: 0px;
+      padding: 0px;
+      background-image: url("gym.jpg");
+    }
+
+    .first {
+      display: inline-block;
+      /* border: 2px red solid; */
+      position: absolute;
+      left: 60px;
+      top: 26px;
+    }
+    .mid {
+      display: block;
+      width: 37%;
+      margin: 46px auto;
+      /* border: 2px green solid; */
+    }
+    .last {
+      position: absolute;
+      right: 10px;
+      top: 20px;
+      display: inline-block;
+      /* border: 2px blue solid; */
+    }
+    .navbar {
+    }
+    .navbar li {
+      display: inline-block;
+      font-size: 17px;
+    }
+    .navbar li a {
+      color: white;
+      text-decoration: none;
+      padding: 0px 14px;
+    }
+    .navbar li a:hover,
+    .navbar li a:active {
+      text-decoration: underline;
+      color: rgb(97, 80, 80);
+    }
+    img {
+      width: 115px;
+      filter: invert(100%);
+    }
+    .first div {
+      line-height: 11px;
+      font-size: 11px;
+      text-align: center;
+    }
+    .btn {
+      margin: 14px 4px;
+      padding: 10px 17px;
+      background-color: black;
+      color: white;
+      border: 2px solid grey;
+      border-radius: 20px;
+      font-size: 14px;
+      cursor: pointer;
+      font-family: "Libre Baskerville", serif;
+    }
+    .btn:hover {
+      background-color: rgb(49, 47, 47);
+    }
+    .container {
+      border: 2px solid white;
+      margin: 110px 90px;
+      padding: 51px 61px;
+      width: 29%;
+      border-radius: 26px;
+    }
+    .container h1 {
+      font-size: 27px;
+      text-align: center;
+    }
+    .form-group input {
+      text-align: center;
+      display: block;
+      width: 326px;
+      padding: 12px 38px;
+      margin: 5px auto;
+      border-radius: 15px;
+      font-size: 19px;
+      border: 2px solid green;
+    }
+    .container button{
+      display: block;
+      width: 400px;
+      margin:12px auto;
+    }
+ 
