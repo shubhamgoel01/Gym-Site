@@ -1,7 +1,4 @@
 # Gym-site
-Creating Gym-site using HTML5 &amp; CSS3 
+Creating Gym-site using HTML5 &amp; CSS3  
 
-Only Fronten-Part
-
-
-Use online Google-fonts
+![alt text]https://github.com/shubhamgoel01/Gym-site/blob/main/gym1.png?raw=true)
